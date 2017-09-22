@@ -75,7 +75,7 @@ input{
     font-size: 1.2rem;
     background: transparent;
     border:0;
-    border-bottom: thin solid blue;
+    border-bottom: thin solid lightgray;
     text-align: center;
     margin-top: 5px;
 }
@@ -134,7 +134,7 @@ input{
 }
 
 .content{
-    background-color: 	rgb(240,248,255);
+    /*background-color: 	rgb(240,248,255);*/
     width: 100%;
     display: flex;
     justify-content: flex-start;
